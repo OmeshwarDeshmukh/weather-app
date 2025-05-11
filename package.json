@@ -1,5 +1,6 @@
 {
   "name": "weather-app",
+  "homepage": "https://omeshwardeshmukh.github.io/weather-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +16,7 @@
     "@fontsource/roboto": "^5.2.5",
     "@mui/icons-material": "^7.1.0",
     "@mui/material": "^7.1.0",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
